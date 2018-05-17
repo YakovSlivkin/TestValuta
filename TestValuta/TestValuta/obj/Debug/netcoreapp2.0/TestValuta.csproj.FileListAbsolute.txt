@@ -1,0 +1,11 @@
+F:\WORKS2018\TestValuta\TestValuta\bin\Debug\netcoreapp2.0\TestValuta.deps.json
+F:\WORKS2018\TestValuta\TestValuta\bin\Debug\netcoreapp2.0\TestValuta.runtimeconfig.json
+F:\WORKS2018\TestValuta\TestValuta\bin\Debug\netcoreapp2.0\TestValuta.runtimeconfig.dev.json
+F:\WORKS2018\TestValuta\TestValuta\bin\Debug\netcoreapp2.0\TestValuta.dll
+F:\WORKS2018\TestValuta\TestValuta\bin\Debug\netcoreapp2.0\TestValuta.pdb
+F:\WORKS2018\TestValuta\TestValuta\obj\Debug\netcoreapp2.0\TestValuta.csprojAssemblyReference.cache
+F:\WORKS2018\TestValuta\TestValuta\obj\Debug\netcoreapp2.0\TestValuta.csproj.CoreCompileInputs.cache
+F:\WORKS2018\TestValuta\TestValuta\obj\Debug\netcoreapp2.0\TestValuta.AssemblyInfoInputs.cache
+F:\WORKS2018\TestValuta\TestValuta\obj\Debug\netcoreapp2.0\TestValuta.AssemblyInfo.cs
+F:\WORKS2018\TestValuta\TestValuta\obj\Debug\netcoreapp2.0\TestValuta.dll
+F:\WORKS2018\TestValuta\TestValuta\obj\Debug\netcoreapp2.0\TestValuta.pdb
